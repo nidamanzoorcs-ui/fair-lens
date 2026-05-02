@@ -146,7 +146,3 @@ Focus: Ethical AI, Fairness, and Explainability
 ## 📌 Conclusion
 
 Fair-Lens aims to make AI decision-making in the justice system more transparent, fair, and accountable by combining machine learning with explainable AI techniques.
-
----
-
-⭐ If you like this project, feel free to star the repository!
